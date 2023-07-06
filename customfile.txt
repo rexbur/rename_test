@@ -1,3 +1,0 @@
-That's my custom file created by touch [filename*.*].
-This file has been opened by start notepad++ [filename] command.
-This file has been edited using notepad++ editor.
